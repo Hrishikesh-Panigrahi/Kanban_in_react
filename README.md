@@ -1,1 +1,1 @@
-# 📘 Kanban Board in Vite+React
+# 📘 Kanban Board in React
