@@ -19,7 +19,7 @@ Welcome to the Kanban Board built with React! This application provides a dynami
 To run the Kanban Board locally, follow these steps:
 1. **Clone the Repository:**
 ```bash
-   git clone [https://github.com/Hrishikesh-Panigrahi/Kanban_in_react](https://github.com/Hrishikesh-Panigrahi/Kanban_in_react).git
+   git clone https://github.com/Hrishikesh-Panigrahi/Kanban_in_react.git
 ```
 
 2. **Navigate to the Project Directory:**
